@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 */build/
 */*.user
+=======
+*/build
+*/*.user
+>>>>>>> 1526d80425ab6743f28be052ee5718a6c8004bdc
